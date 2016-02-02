@@ -1,0 +1,22 @@
+{
+	"elements": [
+		".hero-banner h1",
+		"h2",
+		".hero-banner p",
+		".hero-banner .button",
+		".section",
+		".AVsizer",
+		".random-element"
+	],
+	"styles": [
+		"margin-top",
+		"margin-bottom",
+		"margin-left",
+		"margin-right",
+		"padding-top",
+		"padding-bottom",
+		"padding-right",
+		"padding-left",
+		"size"
+	]
+}

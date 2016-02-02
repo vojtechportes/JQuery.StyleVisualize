@@ -1,0 +1,25 @@
+.sv-element {
+	position: absolute;
+	text-align: center;
+	font-family: Arial;
+	font-size: 11px;
+}
+
+[class*="margin-"] {
+	background: rgba(255, 153, 0, 0.3);
+}
+
+[class*="padding-"] {
+	background: rgba(0, 0, 255, 0.3);
+}
+
+.size {
+	background: rgba(255, 255, 255, 0.8);
+}
+
+.sv-clearfix {
+	clear: both;
+	width: 100%;
+	display: block;
+	height: 1px;
+}
